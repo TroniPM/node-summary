@@ -15,7 +15,7 @@ The algorithm used is explained [here](http://thetokenizer.com/2013/04/28/build-
 
 # Installation
 
-    $ npm install node-summary
+    $ npm install https://github.com/TroniPM/node-summary
 
 # Examples
 
